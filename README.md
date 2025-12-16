@@ -20,7 +20,7 @@ git clone https://github.com/<your-username>/simple-ai-agent.git
 cd simple-ai-agent
 
 python -m venv .venv
-.venv\Scripts\activate   # On Windows
+.venv\Scripts\activate  
 
 pip install -r requirements.txt
 ### or
